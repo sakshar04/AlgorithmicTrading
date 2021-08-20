@@ -1,0 +1,502 @@
+,Stock,Sector,Industry,stock
+0,,Trading,Trading,3MINDIA.NS
+1,,Cement,Cement - North India,ACC.NS
+2,,"Castings, Forgings & Fastners",Castings & Forgings,AIAENG.NS
+3,,Steel,Steel - Large,APLAPOLLO.NS
+4,,Banks,Banks - Private Sector,AUBANK.NS
+5,,Chemicals,Chemicals,AARTIIND.NS
+6,,Finance,Finance - Housing,AAVAS.NS
+7,,Pharmaceuticals,Pharmaceuticals - Multinational,ABBOTINDIA.NS
+8,,Gas Distribution,Miscellaneous,ADANIGAS.NS
+9,,Power Generation & Distribution,Power Generation And Supply,ADANIGREEN.NS
+10,,Infrastructure Developers & Operators,Miscellaneous,ADANIPORTS.NS
+11,,Power Generation & Distribution,Power Generation And Supply,ADANIPOWER.NS
+12,,Power Generation & Distribution,Power Generation And Supply,ADANITRANS.NS
+13,,Finance,Finance & Investments,ABCAPITAL.NS
+14,,Retail,Textiles - Products,ABFRL.NS
+15,,Chemicals,Chemicals,ADVENZYMES.NS
+16,,Trading,Trading,AEGISCHEM.NS
+17,,Miscellaneous,Miscellaneous,AFFLE.NS
+18,,Pharmaceuticals,Pharmaceuticals - Indian - Formulations,AJANTPHARM.NS
+19,,Paints/Varnish,Paints / Varnishes,AKZOINDIA.NS
+20,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,APLLTD.NS
+21,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,ALKEM.NS
+22,,Logistics,Miscellaneous,ALLCARGO.NS
+23,,Auto Ancillaries,Auto Ancillaries,AMARAJABAT.NS
+24,,Consumer Durables,Electronics - Components,AMBER.NS
+25,,Cement,Cement - North India,AMBUJACEM.NS
+26,,Healthcare,Healthcare,APOLLOHOSP.NS
+27,,Tyres,Tyres,APOLLOTYRE.NS
+28,,Retail,Trading,ARVINDFASN.NS
+29,,Glass & Glass Products,Glass & Glass Products,ASAHIINDIA.NS
+30,,Automobile,Automobiles - LCVs / HCVs,ASHOKLEY.NS
+31,,Infrastructure Developers & Operators,Engineering - Turnkey Services,ASHOKA.NS
+32,,Paints/Varnish,Paints / Varnishes,ASIANPAINT.NS
+33,,Healthcare,Healthcare,ASTERDM.NS
+34,,Pharmaceuticals,Pharmaceuticals - Multinational,ASTRAZEN.NS
+35,,Plastic products,Plastics Products,ASTRAL.NS
+36,,Chemicals,Dyes And Pigments,ATUL.NS
+37,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,AUROPHARMA.NS
+38,,Miscellaneous,Food - Processing - Indian,AVANTIFEED.NS
+39,,Retail,Trading,DMART.NS
+40,,Banks,Banks - Private Sector,AXISBANK.NS
+41,,Chemicals,Chemicals,BASF.NS
+42,,Capital Goods-Non Electrical Equipment,Engineering,BEML.NS
+43,,Miscellaneous,Miscellaneous,BSE.NS
+44,,Automobile,Automobiles - Scooters And 3 - Wheelers,BAJAJ-AUTO.NS
+45,,FMCG,Personal Care - Indian,BAJAJCON.NS
+46,,Consumer Durables,Domestic Appliances,BAJAJELEC.NS
+47,,Finance,Finance & Investments,BAJFINANCE.NS
+48,,Finance,Finance & Investments,BAJAJFINSV.NS
+49,,Finance,Finance & Investments,BAJAJHLDNG.NS
+50,,Tyres,Tyres,BALKRISIND.NS
+51,,Diversified,Diversified - Large,BALMLAWRIE.NS
+52,,Sugar,Sugar,BALRAMCHIN.NS
+53,,Banks,Banks - Private Sector,BANDHANBNK.NS
+54,,Banks,Banks - Public Sector,BANKBARODA.NS
+55,,Banks,Banks - Public Sector,BANKINDIA.NS
+56,,Banks,Banks - Public Sector,MAHABANK.NS
+57,,Leather,Leather / Leather Products,BATAINDIA.NS
+58,,Agro Chemicals,Pesticides / Agrochemicals - Multinational,BAYERCROP.NS
+59,,Paints/Varnish,Paints / Varnishes,BERGEPAINT.NS
+60,,Capital Goods-Non Electrical Equipment,Engineering,BDL.NS
+61,,Consumer Durables,Electronics - Components,BEL.NS
+62,,"Castings, Forgings & Fastners",Castings & Forgings,BHARATFORG.NS
+63,,Capital Goods - Electrical Equipment,Electric Equipment,BHEL.NS
+64,,Refineries,Refineries,BPCL.NS
+65,,Telecomm-Service,Telecommunications - Service Provider,BHARTIARTL.NS
+66,,Telecomm Equipment & Infra Services,Transmisson Line Towers / Equipment,INFRATEL.NS
+67,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,BIOCON.NS
+68,,Cement,Cement - North India,BIRLACORPN.NS
+69,,IT - Software,Computers - Software - Medium / Small,BSOFT.NS
+70,,Pharmaceuticals,Pharmaceuticals - Indian - Formulations,BLISSGVS.NS
+71,,Logistics,Couriers,BLUEDART.NS
+72,,Consumer Durables,Air-conditioners,BLUESTARCO.NS
+73,,Plantation & Plantation Products,Tea,BBTC.NS
+74,,Textiles,Textiles - Processing,BOMDYEING.NS
+75,,Auto Ancillaries,Auto Ancillaries,BOSCHLTD.NS
+76,,Realty,Construction,BRIGADE.NS
+77,,FMCG,Food - Processing - MNC,BRITANNIA.NS
+78,,Credit Rating Agencies,Miscellaneous,CARERATING.NS
+79,,Plantation & Plantation Products,Tea,CCL.NS
+80,,Power Generation & Distribution,Power Generation And Supply,CESC.NS
+81,,Credit Rating Agencies,Miscellaneous,CRISIL.NS
+82,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,CADILAHC.NS
+83,,Finance,Finance - Housing,CANFINHOME.NS
+84,,Banks,Banks - Public Sector,CANBK.NS
+85,,Pharmaceuticals,Pharmaceuticals - Indian - Formulations,CAPLIPOINT.NS
+86,,Finance,Finance & Investments,CGCL.NS
+87,,Capital Goods-Non Electrical Equipment,Abrasives And Grinding Wheels,CARBORUNIV.NS
+88,,Chemicals,Chemicals,CASTROLIND.NS
+89,,Tyres,Tyres,CEATLTD.NS
+90,,Banks,Banks - Public Sector,CENTRALBK.NS
+91,,Miscellaneous,Miscellaneous,CDSL.NS
+92,,Miscellaneous,Miscellaneous,CENTURYPLY.NS
+93,,Ceramic Products,Ceramics - Tiles / Sanitaryware,CERA.NS
+94,,Hotels & Restaurants,Hotels,CHALET.NS
+95,,Fertilizers,Fertilizers,CHAMBLFERT.NS
+96,,Refineries,Refineries,CHENNPETRO.NS
+97,,Finance,Finance & Investments,CHOLAHLDNG.NS
+98,,Finance,Finance & Investments,CHOLAFIN.NS
+99,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,CIPLA.NS
+100,,Banks,Banks - Private Sector,CUB.NS
+101,,Mining & Mineral products,Mining / Minerals / Metals,COALINDIA.NS
+102,,Ship Building,Miscellaneous,COCHINSHIP.NS
+103,,FMCG,Personal Care - Multinational,COLPAL.NS
+104,,Logistics,Miscellaneous,CONCOR.NS
+105,,Fertilizers,Fertilizers,COROMANDEL.NS
+106,,Finance,Finance & Investments,CREDITACC.NS
+107,,Capital Goods - Electrical Equipment,Electric Equipment,CROMPTON.NS
+108,,Capital Goods-Non Electrical Equipment,Engines,CUMMINSIND.NS
+109,,IT - Software,Computers - Software - Medium / Small,CYIENT.NS
+110,,Media - Print/Television/Radio,Entertainment / Electronic Media Software,DBCORP.NS
+111,,Banks,Banks - Private Sector,DCBBANK.NS
+112,,Diversified,Diversified - Mega,DCMSHRIRAM.NS
+113,,Realty,Construction,DLF.NS
+114,,FMCG,Personal Care - Indian,DABUR.NS
+115,,Cement,Cement - South India,DALBHARAT.NS
+116,,Chemicals,Chemicals,DEEPAKNTR.NS
+117,,Entertainment,Miscellaneous,DELTACORP.NS
+118,,Finance,Finance - Housing,DHFL.NS
+119,,Infrastructure Developers & Operators,Construction,DBL.NS
+120,,Entertainment,Entertainment / Electronic Media Software,DISHTV.NS
+121,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,DCAL.NS
+122,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs,DIVISLAB.NS
+123,,Consumer Durables,Electronics - Consumer,DIXON.NS
+124,,Healthcare,Healthcare,LALPATHLAB.NS
+125,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,DRREDDY.NS
+126,,Sugar,Sugar,EIDPARRY.NS
+127,,Hotels & Restaurants,Hotels,EIHOTEL.NS
+128,,Finance,Finance & Investments,EDELWEISS.NS
+129,,Automobile,Automobiles - Motorcycles / Mopeds,EICHERMOT.NS
+130,,Capital Goods-Non Electrical Equipment,Compressors / Drilling Equipment,ELGIEQUIP.NS
+131,,FMCG,Personal Care - Indian,EMAMILTD.NS
+132,,Auto Ancillaries,Auto Ancillaries,ENDURANCE.NS
+133,,Infrastructure Developers & Operators,Engineering - Turnkey Services,ENGINERSIN.NS
+134,,Finance,Finance & Investments,EQUITAS.NS
+135,,Pharmaceuticals,Pharmaceuticals - Indian - Formulations,ERIS.NS
+136,,Automobile,Automobiles - Tractors,ESCORTS.NS
+137,,Packaging,Packaging,ESSELPACK.NS
+138,,Auto Ancillaries,Auto Ancillaries,EXIDEIND.NS
+139,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,FDC.NS
+140,,Banks,Banks - Private Sector,FEDERALBNK.NS
+141,,Auto Ancillaries,Auto Ancillaries,FMGOETZE.NS
+142,,Chemicals,Chemicals,FINEORG.NS
+143,,Cables,Cables - Power,FINCABLES.NS
+144,,Plastic products,Plastics Products,FINPIPE.NS
+145,,IT - Software,Computers - Software - Medium / Small,FSL.NS
+146,,Healthcare,Healthcare,FORTIS.NS
+147,,Trading,Trading,FCONSUMER.NS
+148,,Retail,Textiles - Products,FLFL.NS
+149,,Retail,Trading,FRETAIL.NS
+150,,Gas Distribution,Miscellaneous,GAIL.NS
+151,,Infrastructure Developers & Operators,Engineering - Turnkey Services,GEPIL.NS
+152,,Capital Goods - Electrical Equipment,Electric Equipment,GET&D.NS
+153,,Chemicals,Chemicals,GHCL.NS
+154,,Infrastructure Developers & Operators,Engineering - Turnkey Services,GMRINFRA.NS
+155,,FMCG,Detergents / Intermediates,GALAXYSURF.NS
+156,,Textiles,Textiles - Products,GARFIBRES.NS
+157,,Construction,Construction,GAYAPROJ.NS
+158,,Insurance,Finance & Investments,GICRE.NS
+159,,FMCG,Personal Care - Multinational,GILLETTE.NS
+160,,Pharmaceuticals,Pharmaceuticals - Multinational,GLAXO.NS
+161,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,GLENMARK.NS
+162,,Tobacco Products,Cigarettes,GODFRYPHLP.NS
+163,,Miscellaneous,Food - Processing - Indian,GODREJAGRO.NS
+164,,FMCG,Personal Care - Indian,GODREJCP.NS
+165,,Chemicals,Chemicals,GODREJIND.NS
+166,,Realty,Construction,GODREJPROP.NS
+167,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs,GRANULES.NS
+168,,Capital Goods-Non Electrical Equipment,Electrodes - Graphites,GRAPHITE.NS
+169,,Textiles,Textiles - Manmade,GRASIM.NS
+170,,Shipping,Shipping,GESHIP.NS
+171,,Capital Goods-Non Electrical Equipment,Engines,GREAVESCOT.NS
+172,,Capital Goods-Non Electrical Equipment,Abrasives And Grinding Wheels,GRINDWELL.NS
+173,,Chemicals,Chlor Alkali / Soda Ash,GUJALKALI.NS
+174,,Miscellaneous,Miscellaneous,GUJGASLTD.NS
+175,,Mining & Mineral products,Mining / Minerals / Metals,GMDCLTD.NS
+176,,Fertilizers,Fertilizers,GNFC.NS
+177,,Marine Port & Services,Miscellaneous,GPPL.NS
+178,,Fertilizers,Fertilizers,GSFC.NS
+179,,Gas Distribution,Miscellaneous,GSPL.NS
+180,,Chemicals,Chemicals,GULFOILLUB.NS
+181,,Capital Goods-Non Electrical Equipment,Electrodes - Graphites,HEG.NS
+182,,IT - Software,Computers - Software - Large,HCLTECH.NS
+183,,Finance,Finance & Investments,HDFCAMC.NS
+184,,Banks,Banks - Private Sector,HDFCBANK.NS
+185,,Insurance,Finance & Investments,HDFCLIFE.NS
+186,,Telecomm Equipment & Infra Services,Telecommunications - Equipment,HFCL.NS
+187,,FMCG,Food - Processing - Indian,HATSUN.NS
+188,,Capital Goods - Electrical Equipment,Electric Equipment,HAVELLS.NS
+189,,Cement,Cement - North India,HEIDELBERG.NS
+190,,FMCG,Food - Processing - Indian,HERITGFOOD.NS
+191,,Automobile,Automobiles - Motorcycles / Mopeds,HEROMOTOCO.NS
+192,,IT - Software,Computers - Software - Medium / Small,HEXAWARE.NS
+193,,Chemicals,Chemicals,HSCL.NS
+194,,Textiles,Textiles - Products,HIMATSEIDE.NS
+195,,Non Ferrous Metals,Aluminium and Aluminium Products,HINDALCO.NS
+196,,Capital Goods-Non Electrical Equipment,Engineering,HAL.NS
+197,,Non Ferrous Metals,Mining / Minerals / Metals,HINDCOPPER.NS
+198,,Refineries,Refineries,HINDPETRO.NS
+199,,FMCG,Personal Care - Multinational,HINDUNILVR.NS
+200,,Non Ferrous Metals,Mining / Minerals / Metals,HINDZINC.NS
+201,,Consumer Durables,Electronics - Components,HONAUT.NS
+202,,Finance,Finance - Housing,HUDCO.NS
+203,,Finance,Finance - Housing,HDFC.NS
+204,,Banks,Banks - Private Sector,ICICIBANK.NS
+205,,Insurance,Finance & Investments,ICICIGI.NS
+206,,Insurance,Finance & Investments,ICICIPRULI.NS
+207,,Finance,Finance & Investments,ISEC.NS
+208,,Credit Rating Agencies,Miscellaneous,ICRA.NS
+209,,Banks,Banks - Private Sector,IDBI.NS
+210,,Banks,Banks - Private Sector,IDFCFIRSTB.NS
+211,,Finance,Finance & Investments,IDFC.NS
+212,,Consumer Durables,Domestic Appliances,IFBIND.NS
+213,,Finance,Finance - Term-Lending Institutions,IFCI.NS
+214,,Finance,Finance & Investments,IIFL.NS
+215,,Infrastructure Developers & Operators,Construction,IRB.NS
+216,,Infrastructure Developers & Operators,Construction,IRCON.NS
+217,,Tobacco Products,Cigarettes,ITC.NS
+218,,Construction,Construction,ITDCEM.NS
+219,,Telecomm Equipment & Infra Services,Telecommunications - Equipment,ITI.NS
+220,,Cement,Cement - South India,INDIACEM.NS
+221,,Hotels & Restaurants,Hotels,ITDC.NS
+222,,Finance,Finance - Housing,IBULHSGFIN.NS
+223,,Trading,Trading,IBULISL.NS
+224,,Realty,Construction,IBREALEST.NS
+225,,Finance,Finance & Investments,IBVENTURES.NS
+226,,E-Commerce/App based Aggregator,Miscellaneous,INDIAMART.NS
+227,,Banks,Banks - Public Sector,INDIANB.NS
+228,,Finance,Finance & Investments,IEX.NS
+229,,Hotels & Restaurants,Hotels,INDHOTEL.NS
+230,,Refineries,Refineries,IOC.NS
+231,,Banks,Banks - Public Sector,IOB.NS
+232,,Finance,Finance & Investments,INDOSTAR.NS
+233,,Gas Distribution,Miscellaneous,IGL.NS
+234,,Banks,Banks - Private Sector,INDUSINDBK.NS
+235,,IT - Software,Computers - Software - Medium / Small,INFIBEAM.NS
+236,,E-Commerce/App based Aggregator,Miscellaneous,NAUKRI.NS
+237,,IT - Software,Computers - Software - Large,INFY.NS
+238,,Entertainment,Entertainment / Electronic Media Software,INOXLEISUR.NS
+239,,IT - Software,Computers - Software - Medium / Small,INTELLECT.NS
+240,,Air Transport Service,Transport - Airlines,INDIGO.NS
+241,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,IPCALAB.NS
+242,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,JBCHEPHARM.NS
+243,,Cement,Cement - North India,JKCEMENT.NS
+244,,Cement,Cement - North India,JKLAKSHMI.NS
+245,,Paper,Paper,JKPAPER.NS
+246,,Tyres,Tyres,JKTYRE.NS
+247,,Finance,Finance & Investments,JMFINANCIL.NS
+248,,Power Generation & Distribution,Power Generation And Supply,JSWENERGY.NS
+249,,Steel,Steel - Large,JSWSTEEL.NS
+250,,Media - Print/Television/Radio,Entertainment / Electronic Media Software,JAGRAN.NS
+251,,Plastic products,Plastics Products,JAICORPLTD.NS
+252,,Plastic products,Plastics Products,JISLJALEQS.NS
+253,,Banks,Banks - Private Sector,J&KBANK.NS
+254,,Auto Ancillaries,Auto Ancillaries,JAMNAAUTO.NS
+255,,Steel,Steel - Large,JINDALSAW.NS
+256,,Steel,Steel - Large,JSLHISAR.NS
+257,,Steel,Steel - Large,JSL.NS
+258,,Steel,Steel - Sponge Iron,JINDALSTEL.NS
+259,,Consumer Durables,Air-conditioners,JCHAC.NS
+260,,Miscellaneous,Food - Processing - MNC,JUBLFOOD.NS
+261,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs,JUBILANT.NS
+262,,E-Commerce/App based Aggregator,Miscellaneous,JUSTDIAL.NS
+263,,FMCG,Personal Care - Indian,JYOTHYLAB.NS
+264,,Readymade Garments/ Apparells,Textiles - Products,KPRMILL.NS
+265,,Cables,Cables - Power,KEI.NS
+266,,Construction,Construction,KNRCON.NS
+267,,IT - Software,Computers - Software - Medium / Small,KPITTECH.NS
+268,,FMCG,Food - Processing - Indian,KRBL.NS
+269,,Ceramic Products,Ceramics - Tiles / Sanitaryware,KAJARIACER.NS
+270,,Capital Goods - Electrical Equipment,Transmisson Line Towers / Equipment,KALPATPOWR.NS
+271,,Paints/Varnish,Paints / Varnishes,KANSAINER.NS
+272,,Banks,Banks - Private Sector,KTKBANK.NS
+273,,Banks,Banks - Private Sector,KARURVYSYA.NS
+274,,Miscellaneous,Miscellaneous,KSCL.NS
+275,,Capital Goods - Electrical Equipment,Transmisson Line Towers / Equipment,KEC.NS
+276,,Capital Goods-Non Electrical Equipment,Engineering,KENNAMET.NS
+277,,Capital Goods-Non Electrical Equipment,Engines,KIRLOSENG.NS
+278,,Realty,Construction,KOLTEPATIL.NS
+279,,Banks,Banks - Private Sector,KOTAKBANK.NS
+280,,Finance,Finance & Investments,L&TFH.NS
+281,,IT - Software,Computers - Software - Medium / Small,LTTS.NS
+282,,Finance,Finance - Housing,LICHSGFIN.NS
+283,,Textiles,Textile Machinery,LAXMIMACH.NS
+284,,Banks,Banks - Private Sector,LAKSHVILAS.NS
+285,,IT - Software,Computers - Software - Large,LTI.NS
+286,,Infrastructure Developers & Operators,Engineering - Turnkey Services,LT.NS
+287,,Healthcare,Pharmaceuticals - Indian - Formulations,LAURUSLABS.NS
+288,,Hotels & Restaurants,Hotels,LEMONTREE.NS
+289,,Chemicals,Chemicals,LINDEINDIA.NS
+290,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs,LUPIN.NS
+291,,Textiles,Textiles - Composite,LUXIND.NS
+292,,Finance,Finance & Investments,MASFIN.NS
+293,,Trading,Trading,MMTC.NS
+294,,Mining & Mineral products,Mining / Minerals / Metals,MOIL.NS
+295,,Tyres,Tyres,MRF.NS
+296,,Finance,Finance & Investments,MAGMA.NS
+297,,Gas Distribution,Miscellaneous,MGL.NS
+298,,Finance,Finance & Investments,MAHSCOOTER.NS
+299,,Steel,Steel - Medium / Small,MAHSEAMLES.NS
+300,,Finance,Finance & Investments,M&MFIN.NS
+301,,Automobile,Automobiles - Passenger Cars,M&M.NS
+302,,"Castings, Forgings & Fastners",Castings & Forgings,MAHINDCIE.NS
+303,,Hotels & Restaurants,Hotels,MHRIL.NS
+304,,Logistics,Miscellaneous,MAHLOG.NS
+305,,Finance,Finance & Investments,MANAPPURAM.NS
+306,,Refineries,Refineries,MRPL.NS
+307,,FMCG,Personal Care - Indian,MARICO.NS
+308,,Automobile,Automobiles - Passenger Cars,MARUTI.NS
+309,,Finance,Finance & Investments,MFSL.NS
+310,,Healthcare,Healthcare,METROPOLIS.NS
+311,,IT - Software,Computers - Software - Large,MINDTREE.NS
+312,,Auto Ancillaries,Auto Ancillaries,MINDACORP.NS
+313,,Auto Ancillaries,Auto Ancillaries,MINDAIND.NS
+314,,Steel,Steel - Medium / Small,MIDHANI.NS
+315,,Auto Ancillaries,Auto Ancillaries,MOTHERSUMI.NS
+316,,Finance,Finance & Investments,MOTILALOFS.NS
+317,,IT - Software,Computers - Software - Medium / Small,MPHASIS.NS
+318,,Miscellaneous,Miscellaneous,MCX.NS
+319,,Finance,Finance & Investments,MUTHOOTFIN.NS
+320,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,NATCOPHARM.NS
+321,,Realty,Construction,NBCC.NS
+322,,Construction,Construction,NCC.NS
+323,,Miscellaneous,Miscellaneous,NESCO.NS
+324,,Power Generation & Distribution,Power Generation And Supply,NHPC.NS
+325,,IT - Software,Computers - Software - Medium / Small,NIITTECH.NS
+326,,Power Generation & Distribution,Power Generation And Supply,NLCINDIA.NS
+327,,Mining & Mineral products,Mining / Minerals / Metals,NMDC.NS
+328,,Power Generation & Distribution,Power Generation And Supply,NTPC.NS
+329,,Healthcare,Healthcare,NH.NS
+330,,Non Ferrous Metals,Aluminium and Aluminium Products,NATIONALUM.NS
+331,,Fertilizers,Fertilizers,NFL.NS
+332,,Diversified,Diversified - Large,NBVENTURES.NS
+333,,Chemicals,Chemicals,NAVINFLUOR.NS
+334,,FMCG,Food - Processing - MNC,NESTLEIND.NS
+335,,Miscellaneous,Miscellaneous,NETWORK18.NS
+336,,Plastic products,Plastics Products,NILKAMAL.NS
+337,,Finance,Finance & Investments,NAM-INDIA.NS
+338,,Realty,Construction,OBEROIRLTY.NS
+339,,Crude Oil & Natural Gas,Oil Drilling / Allied Services,ONGC.NS
+340,,Crude Oil & Natural Gas,Oil Drilling / Allied Services,OIL.NS
+341,,Realty,Construction,OMAXE.NS
+342,,IT - Software,Computers - Software - Medium / Small,OFSS.NS
+343,,Cement,Cement - South India,ORIENTCEM.NS
+344,,Consumer Durables,Domestic Appliances,ORIENTELEC.NS
+345,,Refractories,Refractories / Intermediates,ORIENTREF.NS
+346,,"Diamond, Gems and Jewellery",Diamond Cutting / Jewellery,PCJEWELLER.NS
+347,,Agro Chemicals,Pesticides / Agrochemicals - Indian,PIIND.NS
+348,,Finance,Finance - Housing,PNBHOUSING.NS
+349,,Construction,Construction,PNCINFRA.NS
+350,,Trading,Trading,PTC.NS
+351,,Entertainment,Entertainment / Electronic Media Software,PVR.NS
+352,,Readymade Garments/ Apparells,Textiles - Products,PAGEIND.NS
+353,,FMCG,Food - Processing - Indian,PARAGMILK.NS
+354,,IT - Software,Computers - Software - Medium / Small,PERSISTENT.NS
+355,,Gas Distribution,Miscellaneous,PETRONET.NS
+356,,Pharmaceuticals,Pharmaceuticals - Multinational,PFIZER.NS
+357,,Chemicals,Chemicals,PHILIPCARB.NS
+358,,Realty,Construction,PHOENIXLTD.NS
+359,,Chemicals,Chemicals,PIDILITIND.NS
+360,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,PEL.NS
+361,,Cables,Cables - Power,POLYCAB.NS
+362,,Finance,Finance - Term-Lending Institutions,PFC.NS
+363,,Power Generation & Distribution,Power Generation And Supply,POWERGRID.NS
+364,,Capital Goods-Non Electrical Equipment,Engineering,PRAJIND.NS
+365,,Realty,Construction,PRESTIGE.NS
+366,,Cement,Cement - North India,PRSMJOHNSN.NS
+367,,Pharmaceuticals,Pharmaceuticals - Multinational,PGHL.NS
+368,,FMCG,Personal Care - Multinational,PGHH.NS
+369,,Banks,Banks - Public Sector,PNB.NS
+370,,Diversified,Diversified - Large,QUESS.NS
+371,,Banks,Banks - Private Sector,RBLBANK.NS
+372,,Finance,Finance - Term-Lending Institutions,RECLTD.NS
+373,,Infrastructure Developers & Operators,Engineering - Turnkey Services,RITES.NS
+374,,Alcoholic Beverages,Breweries & Distilleries,RADICO.NS
+375,,Construction,Construction,RVNL.NS
+376,,Trading,Trading,RAIN.NS
+377,,"Diamond, Gems and Jewellery",Diamond Cutting / Jewellery,RAJESHEXPO.NS
+378,,Agro Chemicals,Pesticides / Agrochemicals - Indian,RALLIS.NS
+379,,Fertilizers,Fertilizers,RCF.NS
+380,,Steel,Steel - Medium / Small,RATNAMANI.NS
+381,,Textiles,Textiles - Products,RAYMOND.NS
+382,,Trading,Trading,REDINGTON.NS
+383,,Leather,Leather / Leather Products,RELAXO.NS
+384,,Finance,Finance & Investments,RELCAPITAL.NS
+385,,Refineries,Refineries,RELIANCE.NS
+386,,Infrastructure Developers & Operators,Engineering - Turnkey Services,RELINFRA.NS
+387,,Power Generation & Distribution,Power Generation And Supply,RPOWER.NS
+388,,Finance,Finance - Housing,REPCOHOME.NS
+389,,Plastic products,Plastics Products,RESPONIND.NS
+390,,Chemicals,Chemicals,SHK.NS
+391,,Insurance,Finance & Investments,SBILIFE.NS
+392,,Power Generation & Distribution,Power Generation And Supply,SJVN.NS
+393,,Bearings,Bearings,SKFINDIA.NS
+394,,Textiles,Textiles - Manmade,SRF.NS
+395,,Construction,Construction,SADBHAV.NS
+396,,Pharmaceuticals,Pharmaceuticals - Multinational,SANOFI.NS
+397,,Bearings,Bearings,SCHAEFFLER.NS
+398,,Miscellaneous,Miscellaneous,SIS.NS
+399,,Textiles,Textiles - Jute - Yarn / Products,SFL.NS
+400,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs,SHILPAMED.NS
+401,,Retail,Textiles - Products,SHOPERSTOP.NS
+402,,Cement,Cement - North India,SHREECEM.NS
+403,,Sugar,Sugar,RENUKA.NS
+404,,Finance,Finance & Investments,SHRIRAMCIT.NS
+405,,Finance,Finance & Investments,SRTRANSFIN.NS
+406,,Capital Goods - Electrical Equipment,Electric Equipment,SIEMENS.NS
+407,,Realty,Construction,SOBHA.NS
+408,,Chemicals,Chemicals,SOLARINDS.NS
+409,,IT - Software,Computers - Software - Medium / Small,SONATSOFTW.NS
+410,,Banks,Banks - Private Sector,SOUTHBANK.NS
+411,,Finance,Finance & Investments,SPANDANA.NS
+412,,Air Transport Service,Transport - Airlines,SPICEJET.NS
+413,,Cement,Cement - North India,STARCEMENT.NS
+414,,Banks,Banks - Public Sector,SBIN.NS
+415,,Steel,Steel - Large,SAIL.NS
+416,,Engineering,Engineering - Turnkey Services,SWSOLAR.NS
+417,,Cables,Cables - Telephone,STRTECH.NS
+418,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,STAR.NS
+419,,Chemicals,Dyes And Pigments,SUDARSCHEM.NS
+420,,Miscellaneous,Miscellaneous,SPARC.NS
+421,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,SUNPHARMA.NS
+422,,Entertainment,Entertainment / Electronic Media Software,SUNTV.NS
+423,,Auto Ancillaries,Auto Ancillaries,SUNCLAYLTD.NS
+424,,Finance,Finance & Investments,SUNDARMFIN.NS
+425,,"Castings, Forgings & Fastners",Fasteners,SUNDRMFAST.NS
+426,,Realty,Construction,SUNTECK.NS
+427,,Auto Ancillaries,Auto Ancillaries,SUPRAJIT.NS
+428,,Plastic products,Plastics Products,SUPREMEIND.NS
+429,,Capital Goods - Electrical Equipment,Electric Equipment,SUZLON.NS
+430,,Textiles,Textiles - Products,SWANENERGY.NS
+431,,Consumer Durables,Domestic Appliances,SYMPHONY.NS
+432,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,SYNGENE.NS
+433,,Miscellaneous,Couriers,TCIEXP.NS
+434,,Textiles,Textiles - Products,TCNSBRANDS.NS
+435,,Consumer Durables,Domestic Appliances,TTKPRESTIG.NS
+436,,Media - Print/Television/Radio,Entertainment / Electronic Media Software,TVTODAY.NS
+437,,Entertainment,Entertainment / Electronic Media Software,TV18BRDCST.NS
+438,,Automobile,Automobiles - Motorcycles / Mopeds,TVSMOTOR.NS
+439,,IT - Software,Computers - Software - Medium / Small,TAKE.NS
+440,,FMCG,Food - Processing - Indian,TASTYBITE.NS
+441,,IT - Software,Computers - Software - Large,TCS.NS
+442,,Plantation & Plantation Products,Tea,TATACONSUM.NS
+443,,IT - Software,Computers - Software - Medium / Small,TATAELXSI.NS
+444,,Finance,Finance & Investments,TATAINVEST.NS
+445,,Automobile,Automobiles - LCVs / HCVs,TATAMTRDVR.NS
+446,,Automobile,Automobiles - LCVs / HCVs,TATAMOTORS.NS
+447,,Power Generation & Distribution,Power Generation And Supply,TATAPOWER.NS
+448,,Steel,Steel - Large,TATASTLBSL.NS
+449,,Steel,Steel - Large,TATASTEEL.NS
+450,,Miscellaneous,Miscellaneous,TEAMLEASE.NS
+451,,IT - Software,Computers - Software - Large,TECHM.NS
+452,,Infrastructure Developers & Operators,Engineering - Turnkey Services,TECHNOE.NS
+453,,Insurance,Finance & Investments,NIACL.NS
+454,,Cement,Cement - South India,RAMCOCEM.NS
+455,,Capital Goods-Non Electrical Equipment,Engineering,THERMAX.NS
+456,,Healthcare,Healthcare,THYROCARE.NS
+457,,Plastic products,Plastics Products,TIMETECHNO.NS
+458,,Auto Ancillaries,Bearings,TIMKEN.NS
+459,,"Diamond, Gems and Jewellery",Diamond Cutting / Jewellery,TITAN.NS
+460,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,TORNTPHARM.NS
+461,,Power Generation & Distribution,Power Generation And Supply,TORNTPOWER.NS
+462,,Retail,Trading,TRENT.NS
+463,,Textiles,Textiles - Products,TRIDENT.NS
+464,,Capital Goods - Electrical Equipment,Electric Equipment,TRITURBINE.NS
+465,,Miscellaneous,Cycles And Accessories,TIINDIA.NS
+466,,Banks,Banks - Public Sector,UCOBANK.NS
+467,,Packaging,Packaging,UFLEX.NS
+468,,Agro Chemicals,Pesticides / Agrochemicals - Indian,UPL.NS
+469,,Finance,Finance & Investments,UJJIVAN.NS
+470,,Cement,Cement - North India,ULTRACEMCO.NS
+471,,Banks,Banks - Public Sector,UNIONBANK.NS
+472,,Alcoholic Beverages,Breweries & Distilleries,UBL.NS
+473,,Alcoholic Beverages,Breweries & Distilleries,MCDOWELL-N.NS
+474,,Capital Goods - Electrical Equipment,Electric Equipment,VGUARD.NS
+475,,Retail,Trading,VMART.NS
+476,,Plastic products,Moulded Luggage,VIPIND.NS
+477,,Logistics,Miscellaneous,VRLLOG.NS
+478,,Tobacco Products,Cigarettes,VSTIND.NS
+479,,Capital Goods-Non Electrical Equipment,Engineering,WABAG.NS
+480,,"Diamond, Gems and Jewellery",Diamond Cutting / Jewellery,VAIBHAVGBL.NS
+481,,IT - Software,Computers - Software - Converts,VAKRANGEE.NS
+482,,Textiles,Textiles - Cotton/Blended,VTL.NS
+483,,Auto Ancillaries,Auto Ancillaries,VARROC.NS
+484,,FMCG,Food - Processing - Indian,VBL.NS
+485,,Mining & Mineral products,Mining / Minerals / Metals,VEDL.NS
+486,,Miscellaneous,Miscellaneous,VENKEYS.NS
+487,,Chemicals,Chemicals,VINATIORGA.NS
+488,,Telecomm-Service,Telecommunications - Service Provider,IDEA.NS
+489,,Diversified,Diversified - Mega,VOLTAS.NS
+490,,Auto Ancillaries,Auto Ancillaries,WABCOINDIA.NS
+491,,Steel,Steel - Medium / Small,WELCORP.NS
+492,,Textiles,Textiles - Products,WELSPUNIND.NS
+493,,Hotels & Restaurants,Hotels,WESTLIFE.NS
+494,,Consumer Durables,Domestic Appliances,WHIRLPOOL.NS
+495,,IT - Software,Computers - Software - Large,WIPRO.NS
+496,,Pharmaceuticals,Pharmaceuticals - Indian - Bulk Drugs & Formln,WOCKPHARMA.NS
+497,,Entertainment,Entertainment / Electronic Media Software,ZEEL.NS
+498,,IT - Software,Computers - Software - Medium / Small,ZENSARTECH.NS
+499,,FMCG,Food - Processing - Indian,ZYDUSWELL.NS
+500,,IT - Software,Computers - Software - Medium / Small,ECLERX.NS
